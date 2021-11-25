@@ -4,4 +4,4 @@ Overview of the analysis: This analysis was used to determine different componen
 
 In addition to the five vizualizations in the Tableau story, I would also look at the age of riders to determine best marketing strategies.
 
-The Tableau Story: link to dashboard
+The Tableau Story: [link to dashboard](https://public.tableau.com/app/profile/claire.cleveland/viz/Module14ChallengeCitibike/Story1)
